@@ -14,5 +14,5 @@
 - [Reviewing levelDB series](https://ayende.com/blog/161410/reviewing-leveldb-part-i-what-is-this-all-about)
 - [Impl](https://github.com/google/leveldb/blob/master/doc/impl.md)
 - [Demystifying LevelDB](https://blog.senx.io/demystifying-leveldb/)
-
+- [Riak docs for levelDB](https://docs.riak.com/riak/kv/latest/setup/planning/backend/leveldb/index.html)
 
