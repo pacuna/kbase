@@ -19,3 +19,7 @@
 ## Org-mode
 
 - [TODO tutorial](https://orgmode.org/worg/org-tutorials/orgtutorial_dto.html)
+
+## Airflow
+
+- [Understand Apache Airflow’s Modular Architecture](https://www.qubole.com/tech-blog/understand-apache-airflows-modular-architecture/)
